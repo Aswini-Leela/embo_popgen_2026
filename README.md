@@ -37,17 +37,17 @@ You can find the list of posters in the dedicated folder:
 ### Organized by:
 
 <p align="left">
-  <img src="popgenlogo.jpg" width="150" />
+  <img src="popgenlogo.jpg" width="280" />
 </p>
 
 <p align="left">
-  <img src="SIBE.pdf" width="100" />
+  <img src="SIBE.png" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="SIGA.jpg" width="100" />
+  <img src="SIGA.jpg" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="AGI.png" width="100" />
+  <img src="AGI.png" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="elixir.jpg" width="100" />
+  <img src="elixir.jpg" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Recas.png" width="100" />
+  <img src="Recas.png" width="150" />
 </p>
